@@ -1,12 +1,12 @@
 {
-  "name": "spmrc",
-  "version": "1.2.0",
-  "description": "spmrc",
+  "name": "node-cli-config",
+  "version": "0.0.1",
+  "description": "cli config management",
   "dependencies": {
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spmjs/spmrc.git"
+    "url": "https://github.com/airyland/node-cli-config.git"
   },
   "devDependencies": {
     "mocha": "*",
